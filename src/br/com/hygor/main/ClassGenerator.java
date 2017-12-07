@@ -6,7 +6,7 @@ import java.io.PrintWriter;
  * @author Hygor Dias
  */
 
-public class Main {
+public class ClassGenerator {
 
     public static void main(String[] args){
 

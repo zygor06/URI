@@ -11,8 +11,6 @@ public class _1001_extremamente_basico {
 
     public static void main(String[] args){
 
-        setLocation();
-        //TODO Colocar aqui a resolução da questão _1001_Extremamente_Basico
 
     }
 }

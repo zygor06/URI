@@ -1,5 +1,9 @@
 package br.com.hygor.uri.java.starter;
 
+import java.io.IOException;
+import java.util.Locale;
+import java.util.Scanner;
+
 import static br.com.hygor.helper.Helper.*;
 
 /**
@@ -9,10 +13,17 @@ import static br.com.hygor.helper.Helper.*;
 
 public class _1009_salario_com_bonus {
 
-    public static void main(String[] args){
+    public static void main(String[] args) throws IOException {
 
-        setLocation();
-        //TODO Colocar aqui a resolução da questão _1009_Salario_com_Bonus
+        Locale.setDefault(Locale.US);
+        Scanner leitor = new Scanner(System.in);
+
+        String nome = leitor.next();
+        double salarioFixo = leitor.nextDouble();
+        double vendas = leitor.nextDouble();
+        double total = salarioFixo + (vendas * 0.15);
+
+        System.out.printf("TOTAL = R$ %.2f\n", total);
 
     }
 }
