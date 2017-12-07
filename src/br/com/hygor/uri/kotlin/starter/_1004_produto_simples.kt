@@ -2,6 +2,6 @@ package br.com.hygor.uri.kotlin.starter
 
 fun main(args: Array<String>){
 
-    //TODO Colocar aqui a resolução da questão _1004_Produto_Simples
+    println("PROD = ${readLine()!!.toInt() * readLine()!!.toInt()}")
 
 }

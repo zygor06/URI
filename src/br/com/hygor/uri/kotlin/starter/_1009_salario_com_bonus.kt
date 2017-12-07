@@ -1,7 +1,11 @@
 package br.com.hygor.uri.kotlin.starter
 
-fun main(args: Array<String>){
+import br.com.hygor.helper.Helper.setLocation
 
-    //TODO Colocar aqui a resolução da questão _1009_Salario_com_Bonus
+fun main(args: Array<String>){
+    setLocation()
+    readLine()
+    val total = (readLine()!!.toDouble() + (readLine()!!.toDouble() * 0.15))
+    System.out.printf("TOTAL = R$ %.3f\n", total)
 
 }

@@ -1,7 +1,11 @@
 package br.com.hygor.uri.kotlin.starter
 
+import br.com.hygor.helper.Helper.setLocation
+
 fun main(args: Array<String>){
 
-    //TODO Colocar aqui a resolução da questão _1002_area_do_Circulo
+    setLocation()
+    val result = Math.pow(readLine()!!.toDouble(), 2.0) * Math.PI
+    System.out.printf("A=%.4f\n", result)
 
 }
