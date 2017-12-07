@@ -1,9 +1,15 @@
 package br.com.hygor.uri.java.starter;
 
+/**
+ * @author Hygor Dias
+ * @github github.com/zygor06
+ */
+
 public class _1828_bazinga {
 
     public static void main(String[] args){
-        //TODO: Codigo do problemas _1828_Bazinga
-    }
 
+        //TODO Colocar aqui a resolução da questão _1828_Bazinga
+
+    }
 }

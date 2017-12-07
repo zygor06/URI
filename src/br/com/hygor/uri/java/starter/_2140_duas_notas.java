@@ -1,9 +1,15 @@
 package br.com.hygor.uri.java.starter;
 
+/**
+ * @author Hygor Dias
+ * @github github.com/zygor06
+ */
+
 public class _2140_duas_notas {
 
     public static void main(String[] args){
-        //TODO: Codigo do problemas _2140_Duas_Notas
-    }
 
+        //TODO Colocar aqui a resolução da questão _2140_Duas_Notas
+
+    }
 }

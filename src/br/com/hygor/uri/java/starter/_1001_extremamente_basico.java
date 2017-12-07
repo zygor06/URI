@@ -1,9 +1,15 @@
 package br.com.hygor.uri.java.starter;
 
+/**
+ * @author Hygor Dias
+ * @github github.com/zygor06
+ */
+
 public class _1001_extremamente_basico {
 
     public static void main(String[] args){
-        //TODO: Codigo do problemas _1001_Extremamente_Basico
-    }
 
+        //TODO Colocar aqui a resolução da questão _1001_Extremamente_Basico
+
+    }
 }

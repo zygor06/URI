@@ -1,9 +1,15 @@
 package br.com.hygor.uri.java.starter;
 
+/**
+ * @author Hygor Dias
+ * @github github.com/zygor06
+ */
+
 public class _2552_paodequejosweeper {
 
     public static void main(String[] args){
-        //TODO: Codigo do problemas _2552_PaodeQuejoSweeper
-    }
 
+        //TODO Colocar aqui a resolução da questão _2552_PaodeQuejoSweeper
+
+    }
 }

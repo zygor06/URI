@@ -1,9 +1,15 @@
 package br.com.hygor.uri.java.starter;
 
+/**
+ * @author Hygor Dias
+ * @github github.com/zygor06
+ */
+
 public class _2633_churras_no_yuri {
 
     public static void main(String[] args){
-        //TODO: Codigo do problemas _2633_Churras_no_Yuri
-    }
 
+        //TODO Colocar aqui a resolução da questão _2633_Churras_no_Yuri
+
+    }
 }

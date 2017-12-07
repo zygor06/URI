@@ -1,9 +1,15 @@
 package br.com.hygor.uri.java.starter;
 
+/**
+ * @author Hygor Dias
+ * @github github.com/zygor06
+ */
+
 public class _1097_sequencia_ij_3 {
 
     public static void main(String[] args){
-        //TODO: Codigo do problemas _1097_Sequencia_IJ_3
-    }
 
+        //TODO Colocar aqui a resolução da questão _1097_Sequencia_IJ_3
+
+    }
 }

@@ -1,9 +1,15 @@
 package br.com.hygor.uri.java.starter;
 
+/**
+ * @author Hygor Dias
+ * @github github.com/zygor06
+ */
+
 public class _1005_media_1 {
 
     public static void main(String[] args){
-        //TODO: Codigo do problemas _1005_Media_1
-    }
 
+        //TODO Colocar aqui a resolução da questão _1005_Media_1
+
+    }
 }

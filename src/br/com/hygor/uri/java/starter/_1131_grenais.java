@@ -1,9 +1,15 @@
 package br.com.hygor.uri.java.starter;
 
+/**
+ * @author Hygor Dias
+ * @github github.com/zygor06
+ */
+
 public class _1131_grenais {
 
     public static void main(String[] args){
-        //TODO: Codigo do problemas _1131_Grenais
-    }
 
+        //TODO Colocar aqui a resolução da questão _1131_Grenais
+
+    }
 }
