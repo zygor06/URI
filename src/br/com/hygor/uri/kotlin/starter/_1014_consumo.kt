@@ -1,7 +1,11 @@
 package br.com.hygor.uri.kotlin.starter
 
+import br.com.hygor.helper.Helper.setLocation
+
 fun main(args: Array<String>){
 
-    //TODO Colocar aqui a resolução da questão _1014_Consumo
+    setLocation()
+    val res = readLine()!!.toInt() / readLine()!!.toDouble()
+    System.out.printf("%.3f km/l\n", res)
 
 }
