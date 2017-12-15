@@ -7,7 +7,7 @@ import static br.com.hygor.helper.Helper.*;
  * @github github.com/zygor06
  */
 
-public class _2649_visual_pythonpp {
+public class _2649_visual_pythonPP {
 
     public static void main(String[] args){
 
